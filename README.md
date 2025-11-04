@@ -1,4 +1,4 @@
-markdown# 🤖 CrewAI Learning Journey
+🤖 CrewAI Learning Journey
 
 My journey learning to build AI agents using the CrewAI framework.
 
